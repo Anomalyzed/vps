@@ -13,8 +13,10 @@ Setting key user grang
 Install htop & nmap
 Key and password of each user uploaded online on github
 added grang e grand to sudo
-Install bzip2
+Installed bzip2
+installed openvpn dnsmasq with 2 script
+Created 2 config for grang & grand
 
 
-To do:
- backup
+To do list:
+ Control if dnsmasq block ads on internet when client is in the vpn
