@@ -1,0 +1,20 @@
+# vps
+Update at 13/07/2018 11:30
+Pass root changed
+recreate key server-side at 4096 bit
+Ping disabled from firewall ovh
+Insert key root
+Changed port ssh from 22 to 80
+Changed method of athentication from password to publickey
+create user grand
+Setting key user grand
+Create user grang
+Setting key user grang
+Install htop & nmap
+Key and password of each user uploaded online on github
+added grang e grand to sudo
+Install bzip2
+
+
+To do:
+ backup
