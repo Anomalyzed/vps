@@ -20,4 +20,7 @@ Created 2 config for grang & grand
 
 To do list:
  Control if dnsmasq block ads on internet when client is in the vpn
+    Something were blocked, other ads pass.
  Control if using ssh tunnelling dnsmasq block ads on internet
+    Much ads pass.
+ Change key size OpenVPN from 2048 to 4096
